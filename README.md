@@ -1,15 +1,15 @@
 # EMG Signal Experiments Repository
 
-Modular log dan eksperimen untuk analisis sinyal EMG, klasifikasi gerakan, dan pengembangan wearable robotics. Dirancang sebagai knowledge base untuk riset dan skill-building.
+A modular log and experiments for EMG signal analysis, gesture classification, and wearable robotics development. Designed as a knowledge base for research and skill-building.
 
 ## Struktur
-- [`01_raw-data/`](01_raw-data/): Dokumentasi alat, jenis sinyal, dan gesture. 
-- [`02_preprocessing/`](02_preprocessing/): Teknik filtering dan segmentasi
-- [`03_feature-extraction/`](03_feature-extraction/): Pendekatan time, frequency, dan hybrid
-- [`04_models/`](04_models/): Algoritma ML dan DL untuk klasifikasi EMG
-- [`05_results-analysis/`](05_results-analysis): Evaluasi dan insight eksperimen
-- [`references/`](references/): Ringkasan paper dan sumber literatur
-- [`roadmap.md`](roadmap.md): Rencana pengembangan dan milestone
+- [`01_raw-data/`](01_raw-data/): Documentation of hardware, signal types, and gestures. 
+- [`02_preprocessing/`](02_preprocessing/): Filtering and segmentation techniques.
+- [`03_feature-extraction/`](03_feature-extraction/): Time-, frequency-, and hybrid-feature approaches.
+- [`04_models/`](04_models/): ML and DL algorithms for EMG classification.
+- [`05_results-analysis/`](05_results-analysis): Evaluation dan experimental insight.
+- [`references/`](references/): Summaries of papers and literature sources.
+- [`roadmap.md`](roadmap.md): Development plan and milestones.
 
 ## Status
-🚧 Repo ini masih dalam tahap eksplorasi dan pengembangan pribadi.
+🚧 This repo is currently in a personal exploration and development stage.
